@@ -2,28 +2,13 @@ h2{
     color: #e766cb;
 }
 
-.leisure{
- display: flex;
- gap: 60px;
- justify-content: center;
- align-items: center;
-}
 
 .blue{
-    color: #e766cb;
+    color:#e62dbe
 }
 
-a{
-    color: #ff0000;
-}
-
-a:hover{
-    color: #0004fd;
-    font-size: 20px;
-}
 
 .img{
-    width: 200px;
-    border-radius: 20px;
-
+    width: 300px;
+    border-radius:20px;
 }
